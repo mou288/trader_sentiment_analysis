@@ -2,6 +2,9 @@
 
 > Uncovering how Bitcoin market sentiment shapes trader behaviour, surfaces behavioural archetypes, and identifies the true drivers of profitability — using Hyperliquid historical trade data merged with the Fear & Greed Index.
 
+
+---
+## the ipynb file doesnot render or shows error on github, you can download and view it
 ---
 
 ## Overview
