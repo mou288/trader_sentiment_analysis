@@ -1,0 +1,27 @@
+{
+  "avg_pnl_by_sentiment": {
+    "Extreme Fear": 1.89,
+    "Extreme Greed": 205.82,
+    "Fear": 128.29,
+    "Greed": 53.99,
+    "Neutral": 27.09
+  },
+  "win_rate_by_sentiment": {
+    "Extreme Fear": 29.3,
+    "Extreme Greed": 55.3,
+    "Fear": 38.2,
+    "Greed": 43.6,
+    "Neutral": 49.5
+  },
+  "archetype_counts": {
+    "Sentiment Followers": 22,
+    "Contrarian Winners": 10
+  },
+  "top_features": [
+    "trade_count",
+    "win_rate",
+    "avg_pnl_per_size"
+  ],
+  "total_traders": 32,
+  "total_trades": 35864
+}
