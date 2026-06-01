@@ -4,7 +4,7 @@
 
 
 ---
-## the ipynb file doesnot render or shows error on github, you can download and view it
+## If the ipynb file does not render or shows error on github, you can download and view it locally
 ---
 
 ## Overview
